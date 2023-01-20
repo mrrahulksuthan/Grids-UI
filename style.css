@@ -91,3 +91,22 @@
     width: 330px;
     height: 210px;
 }
+
+
+
+.container-left-down{
+    height: 35%;
+    width: 51%;
+    background-color: black;
+    /* margin-top: 52px;
+    margin-left: 1%; */
+}
+
+.container-right-down{
+    height: 35%;
+    width: 51%;
+    background-color: red;
+    margin-top: 0px;
+    /* margin-left: 51%;
+    margin-right: 1%; */
+}
