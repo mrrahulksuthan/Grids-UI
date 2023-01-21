@@ -8,7 +8,7 @@
     padding-left: 15px;
 }
 .container{
-    
+    margin-top: 0;
     height: 640px;
     width: 100%;
     /* background-color: black; */
@@ -95,18 +95,31 @@
 
 
 .container-left-down{
-    height: 35%;
-    width: 51%;
-    background-color: black;
+    height: 55%;
+    width: 833px;
     /* margin-top: 52px;
     margin-left: 1%; */
+    margin-left: 1%;
 }
 
 .container-right-down{
-    height: 35%;
-    width: 51%;
-    background-color: red;
-    margin-top: 0px;
-    /* margin-left: 51%;
-    margin-right: 1%; */
+    height: 55%;
+    width: 753px;
+    margin-right: 2%;
+    margin-left: 12px;
+}
+
+.c{
+    height: 40%;
+    display: flex;
+    margin-top: 60px;
+}
+.img5{
+    width: 770px;
+    height: 210px;
+}
+
+.img6{
+    width: 695px;
+    height: 210px;
 }
